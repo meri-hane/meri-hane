@@ -2,9 +2,18 @@
       <img
             src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=B17BC1&center=true&vCenter=true&width=500&height=70&lines=Hola+%F0%9F%91%8B;I'm+Mary+Jane+Calulang!;" />
 </h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
-
 <br />
+
+**About me**
+
+I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from the Philippines. 🇵🇭. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+
+<!--
+- 🌱 I’m currently pursuing my **Bachelors in Computer Science at Technological University of the Philippines - Manila**
+-->
+- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- :bulb: I'm interested in all things data: **Networking, Cloud, Web Development, and Cybersecurity**
+- 💬 Talk to me about Memes, Anime, Movies 🎥, and Books
 
 <div align="center">
       <h3 align="Center">Connect with me:</h3>
