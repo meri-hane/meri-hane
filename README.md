@@ -6,13 +6,13 @@
 
 **About me**
 
-I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from the Philippines. 🇵🇭. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 and DevOps :new: 
+I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from the Philippines. 🇵🇭. I like improving and optimizing systems. I am a strong advocate for 📜 open source, :cloud: Cloud computing, 🚀 and DevOps :new: 
 
 <!--
 - 🌱 I’m currently pursuing my **Bachelors in Computer Science at Technological University of the Philippines - Manila**
 -->
 - ⚡ **Fun fact:** I  can speak **four** languages fluently.
-- :bulb: I'm interested in all things data: **Networking, Cloud, Web Development, and Cybersecurity**
+- :bulb: I'm interested in all things: **Networking, Cloud, Web Development, and Cybersecurity**
 - 💬 Talk to me about Memes 🤣, Anime 🎥, Movies 🎥, and Books 📚
 
 <br />
@@ -27,7 +27,7 @@ I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from th
 	<img title="Linux" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="50" height="40" style="vertical-align:down; margin:6px"/>
 	<img title="Figma" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Postman" alt="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Android" alt="Android" src="https://www3.ntu.edu.sg/home/ehchua/programming/android/images/Android_LogoGreenRobot.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Android" alt="Android" src="https://logos-world.net/wp-content/uploads/2021/09/Android-Emblem.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Flutter" alt="Flutter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="ThunderClient" alt="ThunderClient" src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.24.11/1717565784653/Microsoft.VisualStudio.Services.Icons.Default" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Spring Boot" alt="Spring Boot" src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
