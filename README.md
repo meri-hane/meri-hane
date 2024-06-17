@@ -2,8 +2,10 @@
       <img
             src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=B17BC1&center=true&vCenter=true&width=500&height=70&lines=Hola+%F0%9F%91%8B;I'm+Mary+Jane+Calulang!;" />
 </h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
 <br />
+
 <div align="center">
       <h3 align="Center">Connect with me:</h3>
       <a href="mailto:janecalulang@gmail.com" target="blank"><img align="center" <img
