@@ -2,6 +2,9 @@
       <img
             src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=B17BC1&center=true&vCenter=true&width=500&height=70&lines=Hola+%F0%9F%91%8B;I'm+Mary+Jane+Calulang!;" />
 </h1>
+<p align="center">
+      <img src="https://img.shields.io/badge/Profile%20views-0-blue" alt="profile views">
+</p>
 <br />
 
 **About me**
@@ -16,7 +19,7 @@ I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from th
 - 💬 Talk to me about Memes 🤣, Anime 🎥, Movies 🎥, and Books 📚
 
 <br />
-<h2 align="left">Tools and Technologies</h2>
+<h2 align="left">Languages and Tools</h2>
 
 <p align="center">
 	<img title="Java" alt="Java" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="80" height="40" style="vertical-align:down; margin:4px"/>
@@ -42,6 +45,8 @@ I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from th
 	<img title="Docker" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Jira" alt="Jira" src="https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="HTML" alt="Jira" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="CSS" alt="Jira" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 <br />
