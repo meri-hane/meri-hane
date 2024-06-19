@@ -3,7 +3,7 @@
             src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=B17BC1&center=true&vCenter=true&width=500&height=70&lines=Hola+%F0%9F%91%8B;I'm+Mary+Jane+Calulang!;" />
 </h1>
 <p align="center">
-      <img src="https://img.shields.io/badge/Profile%20views-0-blue" alt="profile views">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=meri-hane.meri-hane" alt="profile views">
 </p>
 <br />
 
