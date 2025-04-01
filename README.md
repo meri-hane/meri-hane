@@ -2,24 +2,18 @@
       <img
             src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=B17BC1&center=true&vCenter=true&width=500&height=70&lines=Hola+%F0%9F%91%8B;I'm+Mary+Jane+Calulang!;" />
 </h1>
-<p align="center">
+<!--<p align="center">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=meri-hane.meri-hane" alt="profile views">
-</p>
+</p> 
 <br />
-
 **About me**
-
-I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from the Philippines. 🇵🇭. I am a strong advocate for 📜 Open Source, :cloud: Cloud Computing, 🚀 and DevOps 
-
-<!--
+ I'm a self-taught passionate Cloud Engineer and Cybersecurity Enthusiast from the Philippines. 🇵🇭. I am a strong advocate for 📜 Open Source, :cloud: Cloud Computing, 🚀 and DevOps 
 - 🌱 I’m currently pursuing my **Bachelors in Computer Science at Technological University of the Philippines - Manila**
--->
 - ⚡ **Fun fact:** I  love Tuna Pie **so much**.
 - :bulb: I'm interested in all things: **Networking, Cloud, Web Development, and Cybersecurity**
 - 💬 Talk to me about Memes 🤣, Anime 🎥, Movies 🎥, and Books 📚
-
 <br />
-
+-->
 
 <br />
 <div align="center">
